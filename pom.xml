@@ -9,7 +9,7 @@
 	<name>Movie Rental System</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<java.version>10</java.version>
+		<java.version>8</java.version>
 		<junit.jupiter.version>5.3.1</junit.jupiter.version>
 		<dbunit.version>2.5.4</dbunit.version>
 		<dependency.locations.enabled>false</dependency.locations.enabled>
