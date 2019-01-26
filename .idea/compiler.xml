@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mrs" />
+        <module name="mrs_stqm" />
       </profile>
     </annotationProcessing>
   </component>
